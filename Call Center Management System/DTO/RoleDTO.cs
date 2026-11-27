@@ -4,4 +4,8 @@
     {
         public string name { get; set; }
     }
+    public class EditRoleDTO
+    {
+        public string name { get; set; }
+    }
 }
